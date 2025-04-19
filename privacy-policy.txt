@@ -1,0 +1,37 @@
+Privacy Policy
+
+Last updated: April 19, 2025
+
+Dash Clicker ("we", "our", or "us") respects your privacy. This Privacy Policy describes how we collect, use, and disclose information when you use our application available on the Google Play Store.
+
+1. Information We Collect
+
+We do not collect, store, or share any personal information from users. The app does not require you to provide any personal details or login credentials.
+
+However, since this app includes in-app purchase functionality, please be aware that:
+
+- Google Play Services may collect certain information as part of the purchase process. This data is handled by Google and not directly accessed or stored by us.
+
+2. How We Use Information
+
+As we do not collect any user data, we do not use or process any personal information.
+
+3. Third-Party Services
+
+Our app may use third-party services, such as Google Play Billing, that may collect information used to identify you. Please refer to their privacy policies for more information:
+
+- Google Play Services Privacy Policy: https://policies.google.com/privacy
+
+4. Children's Privacy
+
+This app is not directed to children under the age of 13. We do not knowingly collect personal data from children.
+
+5. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted here with an updated "Last updated" date.
+
+6. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at:
+
+📧 victor@victorcatn.dev
